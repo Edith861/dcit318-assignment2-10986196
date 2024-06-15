@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inheritance and Method Overriding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72bcc4ab25ffba43e02c0139adf5888798616db8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e7b60705cc7efe7ea03fd7b69e52fd6b3988f93")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inheritance and Method Overriding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inheritance and Method Overriding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

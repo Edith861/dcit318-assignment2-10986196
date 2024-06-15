@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Interfaces",
+    "\\Interfaces\\Interfaces"
   ],
+  "SelectedNode": "\\Interfaces\\Interfaces\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
